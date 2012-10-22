@@ -1,0 +1,4 @@
+pot
+===
+
+statische pot site
